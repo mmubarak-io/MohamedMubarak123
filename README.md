@@ -5,8 +5,7 @@
 
 I build data platforms and AI systems for regulated and GCC organisations, where "it works" isn't the bar — it has to hold up to a regulator, an auditor, and a security review. I work at the intersection of **data engineering**, **governance/compliance**, and **AI**, and I build in public to show the work, not just describe it.
 
-📍 Abu Dhabi, UAE · ~6 years building data & AI platforms across **banking, insurance & healthcare** · MIT Applied Data Science ·   
-🗣️ Arabic (native) · English (fluent)
+📍 Abu Dhabi, UAE · ~6 years building data & AI platforms across **banking, insurance & healthcare** · MIT Applied Data Science · 🗣️ Arabic (native) · English (fluent)
 
 ---
 
