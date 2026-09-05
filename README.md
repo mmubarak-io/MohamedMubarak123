@@ -1,42 +1,71 @@
-
 # Hi, I'm Mohamed 👋
 
-### Data & AI that survives an audit — in regulated industries.
+### Data & AI that survives an audit.
 
-I build data platforms and AI systems for regulated and GCC organisations, where "it works" isn't the bar — it has to hold up to a regulator, an auditor, and a security review. I work at the intersection of **data engineering**, **governance/compliance**, and **AI**, and I build in public to show the work, not just describe it.
+I'm a Data & AI Engineer building **data platforms, AI systems, and governance tooling for regulated environments**.
 
-📍 Abu Dhabi, UAE · ~6 years building data & AI platforms across **banking, insurance & healthcare** · MIT Applied Data Science · 🗣️ Arabic (native) · English (fluent)
+For me, *"it works"* isn't enough.
 
----
+The system also needs to be **traceable, governable, secure, and explainable** — whether the person asking is an engineer, a risk team, or an auditor.
 
-### What I'm about
-
-🏗️ **Engineering** — I build the data/AI platforms, not just talk about them: lakehouses, pipelines, RAG systems, MLOps.
-
-🛡️ **Compliance moat** — governance as something *operational*, not theoretical: GDPR, UAE PDPL, and the EU AI Act turned into artefacts teams actually use.
-
-🤖 **AI × audit** — the hard part regulated teams hit: you can't just point an LLM at customer data. PII redaction, citation tracking, and audit logging are features, not afterthoughts.
-
-<!--
-  Featured projects table removed for now — re-add once repos are public so the links resolve.
-  Suggested first entry when data-governance-toolkit goes public:
-  | **[data-governance-toolkit](https://github.com/MohamedMubarak123/data-governance-toolkit)** | Bilingual (EN/العربية) governance templates — ROPA, DPIA, classification, AI-system risk checklist — mapped to GDPR / UAE PDPL / EU AI Act. |
--->
+My work sits at the intersection of **Data Engineering × AI Engineering × Governance**, and I build in public to share the implementation, not just the ideas.
 
 ---
 
-### Toolbox
+## 🚀 What I'm building
 
-**Data & platforms:** Python · PySpark · Databricks · Snowflake · DuckDB · SQL · Airflow
-**AI / MLOps:** MLflow · FastAPI · Docker · RAG & LLM apps · feature pipelines
-**Cloud:** Azure · AWS · GCP
-**Governance:** GDPR · UAE PDPL · EU AI Act · ISO 27001/27701 · privacy-by-design
+### 📘 Data Governance Toolkit
 
-### Building in public
+An open-source toolkit for turning data-governance requirements into artefacts teams can actually use.
 
-I document each repo as I build it — the design, the tricky parts, and an Arabic summary for the GCC. Follow along:
+**Data Classification · ROPA · DPIA · AI Risk Assessment · Breach Response**
 
-🔗 **LinkedIn:** [linkedin.com/in/baraka-](https://www.linkedin.com/in/baraka-/)
-✉️ **Email:** mo7amed754@gmail.com
+Mapped across **UAE PDPL, GDPR, and the EU AI Act**, with practical templates and fully synthetic worked examples.
+
+→ `mmubarak-io/data-governance-toolkit`
+
+*More projects coming as I explore how governance can move from documentation into the engineering lifecycle.*
 
 ---
+
+## What I work on
+
+🏗️ **Data platforms**
+Lakehouse architectures, data pipelines, quality controls, lineage, and production data systems.
+
+🤖 **Production AI**
+RAG and LLM applications, MLOps, model serving, monitoring, and AI engineering.
+
+🛡️ **Governance by design**
+Building privacy, traceability, auditability, and regulatory controls into systems rather than adding them after deployment.
+
+🔗 **Governance × Engineering**
+Exploring how policies and controls can become machine-readable, testable, and eventually enforceable within engineering workflows.
+
+---
+
+## Toolbox
+
+**Data Engineering**
+Python · PySpark · SQL · Databricks · Snowflake · DuckDB · Airflow
+
+**AI & MLOps**
+MLflow · FastAPI · Docker · RAG · LLM Applications · Feature Pipelines
+
+**Cloud & Platform**
+Azure · AWS · GCP
+
+**Governance & Privacy**
+UAE PDPL · GDPR · EU AI Act · ISO 27001/27701 · Privacy by Design
+
+---
+
+## Building in public
+
+I'm using GitHub to document the journey from:
+
+**Data → AI → Governance → Production**
+
+Each project includes the architecture, implementation decisions, lessons learned, and practical examples.
+
+🔗 **LinkedIn:** linkedin.com/in/baraka-
